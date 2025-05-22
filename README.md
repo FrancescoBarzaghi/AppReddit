@@ -1,1 +1,2 @@
-# AppReddit
+AppReddit
+Gruppo: BARZAGHI - ADELIDIA 
